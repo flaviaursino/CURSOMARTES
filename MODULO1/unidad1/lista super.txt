@@ -5,3 +5,4 @@ frutillas
 galletitas
 pan
 milanesas
+papas fritas
